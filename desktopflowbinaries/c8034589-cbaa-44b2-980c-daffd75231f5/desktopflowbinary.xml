@@ -1,0 +1,14 @@
+<desktopflowbinary desktopflowbinaryid="c8034589-cbaa-44b2-980c-daffd75231f5">
+  <data mimetype="application/json">ImageRepository_c8034589-cbaa-44b2-980c-daffd75231f5.json</data>
+  <iscustomizable>1</iscustomizable>
+  <metadata>{}</metadata>
+  <mimetype>application/json</mimetype>
+  <name>Desktop flow images</name>
+  <process>
+    <workflowid>bdabf5fb-301e-4a31-bcc3-b21f0fd280dc</workflowid>
+  </process>
+  <reference>imageRepo.imgrepo</reference>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <type>ImageRepository</type>
+</desktopflowbinary>

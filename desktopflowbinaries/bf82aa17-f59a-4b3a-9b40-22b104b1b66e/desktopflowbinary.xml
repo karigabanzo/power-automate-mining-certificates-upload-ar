@@ -1,0 +1,14 @@
+<desktopflowbinary desktopflowbinaryid="bf82aa17-f59a-4b3a-9b40-22b104b1b66e">
+  <data mimetype="application/json">DependenciesFile_bf82aa17-f59a-4b3a-9b40-22b104b1b66e.json</data>
+  <iscustomizable>1</iscustomizable>
+  <metadata>{}</metadata>
+  <mimetype>application/json</mimetype>
+  <name>Desktop flow dependencies file</name>
+  <process>
+    <workflowid>a0800e42-3905-4f19-aff5-468dc242850f</workflowid>
+  </process>
+  <reference>flow.dependencies</reference>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <type>DependenciesFile</type>
+</desktopflowbinary>
